@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from ai_spam_filter.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "ai_spam_filter"
